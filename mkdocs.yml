@@ -20,13 +20,13 @@
 
 # Project information
 site_name: PiauIndie
-site_description: A Material Design theme for MkDocs
-site_author: Martin Donath
+site_description: The Game Dev group from Piauí - Brazil
+site_author: Alexandre Tolstenko
 site_url: https://squidfunk.github.io/mkdocs-material/
 
 # Repository
 repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_url: https://piauindie.github.io
 edit_uri: ""
 
 # Copyright
@@ -35,7 +35,7 @@ copyright: 'Copyright &copy; 2016 - 2019 Martin Donath'
 # Configuration
 theme:
   name: null
-  custom_dir: material
+  custom_dir: 'mkdocs-material/material'
 
   # 404 page
   static_templates:
