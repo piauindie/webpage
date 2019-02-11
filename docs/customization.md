@@ -131,15 +131,8 @@ This can be done with any file.
 Besides overriding partials, one can also override so called template blocks,
 which are defined inside the Material theme and wrap specific features. To
 override a template block, create a `main.html` inside the theme directory and
-define the block, e.g.:
+define the block.
 
-```
-{% extends "base.html" %}
-
-{% block htmltitle %}
-  <title>Lorem ipsum dolor sit amet</title>
-{% endblock %}
-```
 
 The Material theme provides the following template blocks:
 
