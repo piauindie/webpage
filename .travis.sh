@@ -44,7 +44,7 @@ set -e
 
 # Deploy documentation to GitHub pages
 if [ "$TRAVIS_BRANCH" == "master" -a "$TRAVIS_PULL_REQUEST" == "false" ]; then
-  REMOTE="https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material"
+  REMOTE="https://${GH_TOKEN}@github.com/piauindie/piauindie.github.io"
 
   # Set configuration for repository and deploy documentation
   git config --global user.name "${GH_NAME}"
