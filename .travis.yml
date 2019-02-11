@@ -35,7 +35,7 @@ after_success:
       git config --global user.email "${GH_EMAIL}" ;
       git remote set-url origin ${REMOTE} ;
       python setup.py install ;
-      mkdocs gh-deploy --force ;
+      mkdocs gh-deploy --force --remote-branch master ;
       mkdocs --version ;
     fi
   - echo "${TRAVIS_BRANCH}" | grep -qvE "^[0-9.]+$" && exit 0; :;
