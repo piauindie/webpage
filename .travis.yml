@@ -35,8 +35,9 @@ after_success:
       git config --global user.email "${GH_EMAIL}" ;
       git remote set-url origin ${REMOTE} ;
       python setup.py install ;
-      mkdocs gh-deploy --force --remote-branch master ;
+      mkdocs build ;
       mkdocs --version ;
+#      mkdocs gh-deploy --force --remote-branch master ;
     fi
   - echo "${TRAVIS_BRANCH}" | grep -qvE "^[0-9.]+$" && exit 0; :;
   - pip install wheel twine
@@ -48,3 +49,13 @@ after_success:
   - docker tag ${TRAVIS_REPO_SLUG} ${TRAVIS_REPO_SLUG}:${TRAVIS_BRANCH}
   - docker tag ${TRAVIS_REPO_SLUG} ${TRAVIS_REPO_SLUG}:latest
   - docker push ${TRAVIS_REPO_SLUG}
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GH_TOKEN
+  keep-history: false
+  local-dir: site
+  on:
+    repo: piauindie/piauindie.github.io
+    branch: master
