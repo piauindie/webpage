@@ -1,7 +1,7 @@
 [![Travis][travis-image]][travis-link]
 
   [travis-image]: https://api.travis-ci.org/piauindie/webpage.svg?branch=master
-  [travis-link]: https://api.travis-ci.org/piauindie/webpage
+  [travis-link]: https://travis-ci.org/piauindie/webpage
 
 # PiauIndie
 
