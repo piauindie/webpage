@@ -51,7 +51,7 @@ script:
   - git checkout master
   - git rm -rf .
   - git clean -fxd
-  - mv ../site/* .
-  - git add *
+  - mv -v ../site/* .
+  - git add .
   - git commit -m $TRAVIS_COMMIT_MESSAGE
   - git push
