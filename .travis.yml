@@ -51,11 +51,11 @@ after_success:
   - docker push ${TRAVIS_REPO_SLUG}
 
 deploy:
-  provider: pages
-  skip-cleanup: true
-  github-token: $GH_TOKEN
-  keep-history: false
-  local-dir: site
-  on:
-    repo: piauindie/piauindie.github.io
-    branch: master
+  - provider: pages
+    skip-cleanup: true
+    github-token: $GH_TOKEN
+    keep-history: false
+    local-dir: site
+    on:
+      repo: piauindie/piauindie.github.io
+      branch: master
