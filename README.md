@@ -5,7 +5,7 @@
 
 # PiauIndie
 
-A placeholders for PiauIndie site. 
+A placeholder for PiauIndie site. 
 
 Insert logo here. 
 
