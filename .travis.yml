@@ -36,7 +36,7 @@ script:
       mkdocs --version ;
     fi
 #      mkdocs gh-deploy --force --remote-branch master ;
-  - echo "${TRAVIS_BRANCH}" | grep -qvE "^[0-9.]+$" && exit 0; :;
+#  - echo "${TRAVIS_BRANCH}" | grep -qvE "^[0-9.]+$" && exit 0; :;
   - pip install wheel twine
   - python setup.py build sdist bdist_wheel --universal
   - docker build -t ${TRAVIS_REPO_SLUG} .

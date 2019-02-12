@@ -30,7 +30,7 @@ repo_url: https://github.com/piauindie/webpage
 edit_uri: ""
 
 # Copyright
-copyright: 'Copyright &copy; 2016 - 2019 Martin Donath'
+copyright: 'Copyright &copy; Instituto Interaje - https://www.interaje.com.br/'
 
 # Configuration
 theme:
@@ -41,7 +41,7 @@ theme:
     - 404.html
 
   # Don't include MkDocs' JavaScript
-  include_search_page: false
+  include_search_page: true
   search_index_only: true
 
   # Default values, taken from mkdocs_theme.yml
@@ -62,13 +62,13 @@ theme:
 extra:
   social:
     - type: globe
-      link: http://struct.cc
-    - type: github-alt
-      link: https://github.com/squidfunk
-    - type: twitter
-      link: https://twitter.com/squidfunk
-    - type: linkedin
-      link: https://linkedin.com/in/squidfunk
+      link: https://www.interaje.com.br
+#    - type: github-alt
+#      link: https://github.com/squidfunk
+#    - type: twitter
+#      link: https://twitter.com/squidfunk
+#    - type: linkedin
+#      link: https://linkedin.com/in/squidfunk
 
 # Extensions
 markdown_extensions:
