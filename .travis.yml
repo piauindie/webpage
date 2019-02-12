@@ -54,5 +54,5 @@ script:
   - git clean -fxd
   - sudo mv -v ../site/* .
   - git add .
-  - git commit -m $TRAVIS_COMMIT_MESSAGE
+  - git commit -m "$TRAVIS_COMMIT_MESSAGE"
   - git push
