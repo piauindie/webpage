@@ -46,7 +46,7 @@ script:
 #  - docker tag ${TRAVIS_REPO_SLUG} ${TRAVIS_REPO_SLUG}:${TRAVIS_BRANCH}
 #  - docker tag ${TRAVIS_REPO_SLUG} ${TRAVIS_REPO_SLUG}:latest
 #  - docker push ${TRAVIS_REPO_SLUG}
-#  - git clone https://${GH_TOKEN}@github.com/piauindie/piauindie.github.io
+  - git clone https://${GH_TOKEN}@github.com/piauindie/piauindie.github.io
   - sudo chmod -R 777 piauindie.github.io
   - cd piauindie.github.io
   - git checkout master
