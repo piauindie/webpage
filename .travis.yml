@@ -46,13 +46,12 @@ script:
   - docker tag ${TRAVIS_REPO_SLUG} ${TRAVIS_REPO_SLUG}:${TRAVIS_BRANCH}
   - docker tag ${TRAVIS_REPO_SLUG} ${TRAVIS_REPO_SLUG}:latest
   - docker push ${TRAVIS_REPO_SLUG}
-
-deploy:
-  provider: pages
-  skip-cleanup: true
-  github-token: $GH_TOKEN
-  keep-history: false
-  local-dir: site
-  on:
-    repo: piauindie/piauindie.github.io
-    branch: master
+  - git clone https://${GH_TOKEN}@github.com/piauindie/piauindie.github.io
+  - cd piauindie.github.io
+  - git checkout master
+  - git rm -rf .
+  - git clean -fxd
+  - mv ../site/* .
+  - git add *
+  - git commit -m $TRAVIS_COMMIT_MESSAGE
+  - git push
