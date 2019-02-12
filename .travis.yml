@@ -26,9 +26,6 @@ install:
 script:
   - npm run lint
   - npm run build
-
-# Deploy artifacts
-after_success:
   - if [ "$TRAVIS_BRANCH" == "master" -a "$TRAVIS_PULL_REQUEST" == "false" ]; then
       REMOTE="https://${GH_TOKEN}@github.com/piauindie/piauindie.github.io" ;
       git config --global user.name "${GH_NAME}" ;
@@ -37,8 +34,8 @@ after_success:
       python setup.py install ;
       mkdocs build ;
       mkdocs --version ;
-#      mkdocs gh-deploy --force --remote-branch master ;
     fi
+#      mkdocs gh-deploy --force --remote-branch master ;
   - echo "${TRAVIS_BRANCH}" | grep -qvE "^[0-9.]+$" && exit 0; :;
   - pip install wheel twine
   - python setup.py build sdist bdist_wheel --universal
@@ -51,11 +48,11 @@ after_success:
   - docker push ${TRAVIS_REPO_SLUG}
 
 deploy:
-  - provider: pages
-    skip-cleanup: true
-    github-token: $GH_TOKEN
-    keep-history: false
-    local-dir: site
-    on:
-      repo: piauindie/piauindie.github.io
-      branch: master
+  provider: pages
+  skip-cleanup: true
+  github-token: $GH_TOKEN
+  keep-history: false
+  local-dir: site
+  on:
+    repo: piauindie/piauindie.github.io
+    branch: master
