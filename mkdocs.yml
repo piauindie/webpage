@@ -14,7 +14,8 @@ copyright: 'Copyright &copy; Instituto Interaje - https://www.interaje.com.br/'
 
 # Configuration
 theme:
-  name: material
+  name: null
+  custom_dir: 'material'
 
   # 404 page
   static_templates:
