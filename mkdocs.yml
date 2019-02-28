@@ -86,7 +86,8 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Press: press.md
-  - Challenges: challenges.md
+  - Challenges:
+    - Challenge2: challenge2.md
     - Challenge3: challenge3.md
 #  - Extensions:
 #    - Admonition: extensions/admonition.md
