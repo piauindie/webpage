@@ -87,6 +87,7 @@ nav:
   - Home: index.md
   - Press: press.md
   - Challenges: challenges.md
+    - Challenge3: challenge3.md
 #  - Extensions:
 #    - Admonition: extensions/admonition.md
 #    - CodeHilite: extensions/codehilite.md
