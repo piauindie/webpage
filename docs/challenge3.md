@@ -13,6 +13,10 @@ O terceiro desafio do Piauindie é o desenvolvimento de um clone do jogo [Lunar 
 Existem vários outros jogos inspirados em Lunar Lander, como é possível ver na busca abaixo feita na [Play Store](https://play.google.com/store/apps/collection/search_results_cluster_apps?clp=ggEOCgxsdW5hciBsYW5kZXI%3D%3AS%3AANO1ljLJSqQ&gsr=ChGCAQ4KDGx1bmFyIGxhbmRlcg%3D%3D%3AS%3AANO1ljIDdd0&hl=pt-BR).
 
 ___
+#### Datas
+**Data de início**: 25/02
+**Prazo**: 30/03
+___
 #### Critérios
 - O clone deve ser 2D.
 - A nave deve partir e aterrissar em plataformas.
