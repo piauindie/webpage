@@ -1,16 +1,3 @@
-# PiauIndie - <small>THE Game Dev Community</small>
-
-Logo
-
-## Who are we?
-
-
-## What to expect from us
-
-* 
-* 
-
-## What do we expect
 # PiauIndie - <small>Comunidade de game dev no Piauí</small>
 
 ![](https://www.dropbox.com/s/x7edsnhae7rbh7b/Piauindie%20logo%20sem%20fundo.png?raw=1)
@@ -54,7 +41,3 @@ ___
 [Grupo no Discord](https://discord.gg/k99tVTx)  
 [Grupo no WhatsApp](https://chat.whatsapp.com/FgZDYhQwPJMERF1mp2utbd)  
 [Página no Instagram](https://www.instagram.com/piauindie/)
-## Be part of the team!
-
-whatsapp link
-instagram
