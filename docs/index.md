@@ -14,18 +14,18 @@ Unidos nós temos mais força para transformar o Piauí em um local onde a produ
 
 ___
 #### Nossas principais atividades
-**1. Debate gamedev:** é uma roda de conversa durante a qual compartilhamos vivências e compartilhamos nossas vontades para com o mundo do desenvolvimento de jogos. Durante tais debates, temos o costume de bolar ações que possam fazer com que a comunidade continue evoluindo;
+**1. Debate gamedev:** é uma roda de conversa durante a qual compartilhamos nossas vivências e vontades para com o mundo do desenvolvimento de jogos. Durante tais debates, temos o costume de bolar ações que possam fazer com que a comunidade continue evoluindo;
   
-**2. Palestras e oficinas:** convidamos participantes da nossa comunidade para ministrar palestras e/ou oficinas com temática gamedev
+**2. Palestras e oficinas:** convidamos participantes da nossa comunidade para ministrar palestras e/ou oficinas com temática gamedev;
   
-**3. Desafios:** mensalmente, criamos desafios para os membros da comunidade. Basta desenvolver o jogo proposto, exibir o resultado e contar a história por trás do dev. É um desafio saudável com o único intuito de movimentar a comunidade e gerar aprendizado;
+**3. Desafios:** mensalmente, criamos desafios para os membros da comunidade. Basta desenvolver o jogo proposto, exibir o resultado e contar a história por trás do dev. O desenvolvedor pode fazer tudo sozinho ou monter uma equipe. É um desafio saudável com o principal intuito de movimentar a comunidade e gerar aprendizado;
     
-**4. Mostragem de jogos:** reunimos jogos desenvolvidos por participantes do grupo para exibir em público.  
+**4. Mostragem de jogos:** reunimos jogos desenvolvidos por participantes do grupo para exibir em público. O objetivo aqui é diversão e coleta de feedback.  
 ___
 #### Participação em eventos
-Para espalhar nossas ações pelo estado, estamos buscando eventos em cidades do Piaui. Você tem conhecimento de algum evento ou está organizando algum evento na área de **artes, tecnologia ou cultura geek**? Gostaríamos de bater um papo e ajudar a **fortalecer ainda mais** o seu evento.
+Para espalhar nossas ações pelo estado, estamos buscando eventos em cidades do Piaui. Você tem conhecimento de algum evento ou está organizando algum evento na área de **artes, tecnologia ou cultura geek**? Se interessou pelas nossas atividades? Gostaríamos de bater um papo e ajudar a **fortalecer ainda mais** o seu evento.
 
-Tem interesse? Fique a vontade para entrar em contato com:
+Se tem interesse, fique à vontade para entrar em contato com:
 
 **Danilo Carvalho**  
 danilomlcarvalho@gmail.com  
