@@ -14,7 +14,7 @@ Existem vários outros jogos inspirados em Lunar Lander, como é possível ver n
 
 ___
 #### Datas
-**Data de início**: 25/02
+**Data de início**: 25/02  
 **Prazo**: 30/03
 ___
 #### Critérios
