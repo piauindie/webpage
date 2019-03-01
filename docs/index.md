@@ -41,3 +41,5 @@ ___
 [Grupo no Discord](https://discord.gg/k99tVTx)  
 [Grupo no WhatsApp](https://chat.whatsapp.com/FgZDYhQwPJMERF1mp2utbd)  
 [Página no Instagram](https://www.instagram.com/piauindie/)
+
+> Não esqueça de ficar atento às regras do grupo!
