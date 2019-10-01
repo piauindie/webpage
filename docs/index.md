@@ -20,7 +20,9 @@ ___
   
 **3. Desafios:** mensalmente, criamos desafios para os membros da comunidade. Basta desenvolver o jogo proposto, exibir o resultado e contar a história por trás do dev. O desenvolvedor pode fazer tudo sozinho ou monter uma equipe. É um desafio saudável com o principal intuito de movimentar a comunidade e gerar aprendizado;
     
-**4. Mostragem de jogos:** reunimos jogos desenvolvidos por participantes do grupo para exibir em público. O objetivo aqui é diversão e coleta de feedback.  
+**4. Mostragem de jogos:** reunimos jogos desenvolvidos por participantes do grupo para exibir em público. O objetivo aqui é diversão e coleta de feedback.
+
+**5. Formação de grupos de desenvolvimento:** Através da interação dos membros do grupo, subgrupos são formados com propósitos de desenvolvimento de jogos para atender solicitações, demandas e outros projetos, sejam eles de origem empresarial,educacional ou pessoal.
 ___
 #### Participação em eventos
 Para espalhar nossas ações pelo estado, estamos buscando eventos em cidades do Piaui. Você tem conhecimento de algum evento ou está organizando algum evento na área de **artes, tecnologia ou cultura geek**? Se interessou pelas nossas atividades? Gostaríamos de bater um papo e ajudar a **fortalecer ainda mais** o seu evento.
